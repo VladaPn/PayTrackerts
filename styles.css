@@ -95,3 +95,8 @@ body{
     margin-top: 30px;
     }
   }
+  @media(max-width:328px){
+    button{
+      margin-top: 10px;
+    }
+  }
