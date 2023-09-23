@@ -89,3 +89,9 @@ body{
     margin-top: 40px;
     font-size: 0.7em;
   }
+  @media(max-width:576px){
+    footer{
+    padding: 25px 20px;
+    margin-top: 30px;
+    }
+  }
